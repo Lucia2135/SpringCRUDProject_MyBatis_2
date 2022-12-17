@@ -4,7 +4,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Insert title here</title>
+  <title>OurPlaylist</title>
   <style>
     img, label { display:inline-block;}
     label{ width:130px}
